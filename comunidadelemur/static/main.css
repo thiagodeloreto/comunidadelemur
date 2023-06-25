@@ -1,0 +1,41 @@
+.card {
+    width: 400px;
+    border: none;
+    border-radius: 10px;
+
+    background-color: #fff;
+}
+
+.stats {
+
+    background: #f2f5f8 !important;
+    color: #000 !important;
+}
+
+.articles {
+    font-size: 10px;
+    color: #2c2c2c;
+}
+
+.number1 {
+    font-weight: 500;
+}
+
+
+.number2 {
+    font-weight: 500;
+}
+
+.rating {
+    font-size: 10px;
+    color: #2c2c2c;
+}
+
+.number3 {
+    font-weight: 500;
+}
+
+.post{
+    background-color:#f2f5f8 ;
+    border-radius: 10px;
+}
